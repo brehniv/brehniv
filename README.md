@@ -6,25 +6,21 @@ Here are some ideas to get you started:
 
 ## My Skills
 
+![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-090909?style=for-the-badge&logo=.net&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=transparent)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL)
-![C#](https://img.shields.io/badge/-C%23-00599C?logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Additional Important skills
-
+![C++](https://img.shields.io/badge/c++-090909?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 ![Git](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=E34F26)
 
 ## Technologies in progress of Learning
-![MongoDB](https://img.shields.io/badge/-mongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=green)
 
-
-## Technologies that I plan to study:
-😅
 
 ### Follow me
 
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/marian_pidchashyi/)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Mocnui_Hlop)
-[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/UcDhjJW9)
-[![Github](https://img.shields.io/badge/-GITHUB-090909?style=for-the-badge&logo=Github&logoColor=fff)](mailto:https://github.com/Marian1309)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/kostia.semkiv/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Kostia_SS)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=Linkedin&logoColor=whiye)](https://www.linkedin.com/in/kostiasemkiv/)
