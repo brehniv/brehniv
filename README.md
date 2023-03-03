@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=transparent)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL)
-![C#](https://img.shields.io/badge/-C%23-black)
+![C#](https://img.shields.io/badge/-C%23-00599C?logoColor=black)
 
 ### Additional Important skills
 
