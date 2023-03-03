@@ -1,7 +1,3 @@
-
-
-Here are some ideas to get you started:
-
 # Hello, I'm a  Junior C#, .NET Developer
 
 ## My Skills
