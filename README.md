@@ -1,4 +1,4 @@
-# Hello, I'm a  Junior C#, .NET Developer
+# Hello, I'm a  Junior Idiot
 
 ## My Skills
 
